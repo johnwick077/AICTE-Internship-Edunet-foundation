@@ -1,9 +1,7 @@
 In Encryption,
 
 python encrypt.py
-
 enter secret message
-
 enter the password 
 
 In Decrytion,
