@@ -1,17 +1,17 @@
 In Encryption,
 
 
-python encrypt.py
+  python encrypt.py
 
-enter secret message
+  enter secret message
 
-enter the password 
+  enter the password 
 
 
 
 In Decrytion,
 
 
-python decrypt.py
+  python decrypt.py
 
-enter the password 
+  enter the password 
